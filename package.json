@@ -1,6 +1,6 @@
 {
 	"name": "stayfm-archiver",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Batch download m4a and metadata from the stayfm mixclound archive",
 	"main": "index.js",
 	"scripts": {
