@@ -1,4 +1,3 @@
-const path = require('path')
 const debug = require('debug')('stayfm:parseEnv')
 
 if (process.env.MIXCLOUD_USER === undefined) {
